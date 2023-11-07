@@ -1,0 +1,14 @@
+Down Navbar Starts
+<nav class="social">
+		<div class="col-12">
+		</div>
+</nav>
+
+css
+.social
+{
+ 	background-color: #000;
+	height: 50px;
+	width: 100%;
+	background-image:url(Q-IMG/Banner.png);
+}
